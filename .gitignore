@@ -1,0 +1,5 @@
+2_핵심예제 분석자료/pdf/*
+1_시장 및 비즈니스 분석 방법론/pdf/*
+convert_pdfs_to_md.py
+rebuild_md_from_pdfs.py
+scripts/pdf_to_md.py
