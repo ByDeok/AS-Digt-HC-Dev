@@ -476,4 +476,4 @@ sequenceDiagram
 
 **요약**: 위 SRS 확정본은 기존 SRS에 대해 PRD의 모든 Story·AC·KPI를 재점검하여, 누락되었던 툴팁 커버리지·오경보율·행동 KPI·월간 리포트 생성률 등을 추가 NFR로 반영하고, 관련 REQ-FUNC·Traceability·API 매핑을 보완함으로써 ISO 29148 기반 Definition of Done을 충족한다.
 
-
+GPT로 생성한 자료.
