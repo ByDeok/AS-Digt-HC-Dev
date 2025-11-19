@@ -1,0 +1,5 @@
+@GPT-PRD.md 문서의 제품 제작 목표를 기준으로 삼고, 
+@EPIC0-FE-001.md @EPIC0-FE-002.md @EPIC0-FE-003.md @EPIC0-FE-004.md @EPIC0-FE-005.md 
+위의 Task 정의를 활용하여 Firebase Studio에서 Frontend Prototyping을 수행하기에 적절한 프롬프트를 작성해줘.
+
+결과물은 @2_핵심예제 분석자료 아래에 "12_MVP_PoC_프로토타이핑_프롬프트.md"로 작성해줘.
